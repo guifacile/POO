@@ -2,6 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 
+//--JEUX DE NOMBRES ALEATOIRES--//
+
 //FONCTION DE COMPARAISON
 int sup_inf(int val_alea, int val_choix){
 	
