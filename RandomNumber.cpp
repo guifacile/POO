@@ -3,6 +3,7 @@
 #include <ctime>
 
 //--JEUX DE NOMBRES ALEATOIRES--//
+//--VERSION: 0.0.1
 
 //FONCTION DE COMPARAISON
 int sup_inf(int val_alea, int val_choix){
